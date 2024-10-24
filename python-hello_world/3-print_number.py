@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 98  # Ensure this is an integer
-print(f"{number} Battery street")
+print(f"{98} Battery street")
